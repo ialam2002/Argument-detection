@@ -27,3 +27,7 @@ We fine-tuned the pre-trained RoBERTa model on our dataset to adapt it to the sp
 ## Evaluation
 
 The performance of the model was evaluated using accuracy, precision, recall, and F1-score. These metrics help in understanding the effectiveness of the model in identifying arguments.
+
+# Code
+
+All the code along with results is stored within the Python notebook file `argument_detection.ipynb`.
